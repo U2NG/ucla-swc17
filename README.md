@@ -5,7 +5,7 @@
 2. Project mgmt in Rstudio - 15m
 3. Data Structures 55m
 4. GGPLO2 - 60
-
+            
 ## Day 2 
 1. Subsetting data - 45
 2. Vectorization - 25
