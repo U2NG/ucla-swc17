@@ -1,13 +1,17 @@
 ---
 title: "Intro to R"
 author: "Tim Dennis"
-date: "11/7/2016"
+date: "10/16/2017"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+**55 min (40min teaching, 15min exercises)**
+** should break 1/2 thru**
+** shoot to finish at 3:15-25**
 
 ## Data Structures
 
@@ -379,7 +383,7 @@ typeof(cats[,1])
 str(cats[,1])
 ```
 
-*each row is an observation of different variables, itself a `data.frame` and thus can be composed of element of diff. types
+* each row is an observation of different variables, itself a `data.frame` and thus can be composed of element of diff. types
 
 ```{r}
 cats[1,]
